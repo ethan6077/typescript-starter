@@ -12,13 +12,21 @@
 
 1. What is Early Exit Pattern?
 
-Definition:
+- Definition:
 
 Return early is the way of writing functions or methods so that the expected positive result is returned at the end of the function and the rest of the code terminates the execution (by returning or throwing an exception) when conditions are not met.
 
 2. When and where should we use Early Exit Pattern?
 
+- with languages have the key word `return`
+- when we would like to avoid nested if-else statement
+
 3. Why can't we see Early Exit pattern in Scala?
+
+- no key word `return`
+- everything is expression
+- if-else statement is essentially a ternary expression, like `xxx ? A : B`
+- Scala has smart ways to deal with null values, e.g. having a `content` with type `Option`, we can do `content.map(raw => format(raw))` will just ignore the null branch.
 
 ## Code Demo
 
