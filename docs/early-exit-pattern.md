@@ -19,3 +19,9 @@ Return early is the way of writing functions or methods so that the expected pos
 2. When and where should we use Early Exit Pattern?
 
 3. Why can't we see Early Exit pattern in Scala?
+
+## Code Demo
+
+```
+/src/demo
+```
