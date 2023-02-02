@@ -3,7 +3,9 @@
 ## Resources:
 
 [The faster you can fail, you faster you can success](https://medium.com/swlh/return-early-pattern-3d18a41bba8#:~:text=R%20eturn%20early%20is%20the,when%20conditions%20are%20not%20met.)
+
 [Else Considered Smelly](http://wiki.c2.com/?ElseConsideredSmelly)
+
 [Arrow Anti Pattern](http://wiki.c2.com/?ArrowAntiPattern)
 
 ## Questions:
