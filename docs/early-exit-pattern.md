@@ -8,6 +8,14 @@
 
 [Arrow Anti Pattern](http://wiki.c2.com/?ArrowAntiPattern)
 
+## Resources shared by Jing
+
+[refactoring guru](https://refactoring.guru/replace-nested-conditional-with-guard-clauses)
+
+Try to get rid the code of side effects — [Separate Query from Modifier](https://refactoring.guru/separate-query-from-modifier)
+
+see whether you can use [Consolidate Conditional Expression](https://refactoring.guru/consolidate-conditional-expression) for guard clauses that lead to the same exceptions or returned values.
+
 ## Questions:
 
 1. What is Early Exit Pattern?

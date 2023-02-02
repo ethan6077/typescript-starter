@@ -1,3 +1,5 @@
+
+// Stev is on this approach
 const buildItemListResponse =
 (isModified: boolean, consumerId: String, fetchContent: (cId: String) => String, formatContent: (c: String) => String[]) => {
 
